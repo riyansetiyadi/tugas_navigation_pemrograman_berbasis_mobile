@@ -10,6 +10,15 @@ Aplikasi **E-Commerce Cart** menyajikan daftar produk perangkat keras/komponen k
 
 ---
 
+## 📸 Screenshot
+
+| Halaman Utama | Halaman Detail |
+|:---:|:---:|
+| ![Home Screen](screenshots/home_screen.jpeg) | ![Detail Screen](screenshots/detail_screen.jpeg) |
+
+---
+
+
 ## 🚀 Fitur Utama
 
 1. **Daftar Keranjang Belanja (`HomeScreen`)**:
@@ -49,10 +58,11 @@ Aplikasi **E-Commerce Cart** menyajikan daftar produk perangkat keras/komponen k
 ## 📁 Struktur Folder Proyek
 
 ```text
-e_commerce/
+tugas_navigation_pemrograman_berbasis_mobile/
 ├── android/            # Konfigurasi platform Android
 ├── ios/                # Konfigurasi platform iOS
 ├── images/             # Aset gambar produk komputer lokal
+├── screenshots/        # Screenshot tampilan aplikasi
 ├── lib/
 │   ├── models/
 │   │   └── model_keranjang.dart   # Model representasi data barang keranjang
