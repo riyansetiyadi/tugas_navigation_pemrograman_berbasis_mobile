@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Cart (Keranjang Belanja) - Kelanjutan Tugas Flutter
+# 🛒 Tugas Navigation - Pemrograman Berbasis Mobile
 
 Aplikasi ini merupakan **kelanjutan dari tugas [tugas_widget_pemrograman_berbasis_mobile](https://github.com/riyansetiyadi/tugas_widget_pemrograman_berbasis_mobile)**. Aplikasi ini dirancang untuk menunjukkan implementasi interaksi state, pengelolaan kuantitas barang secara dinamis, navigasi antar halaman, dan pemformatan mata uang Rupiah pada aplikasi berbasis Flutter.
 
