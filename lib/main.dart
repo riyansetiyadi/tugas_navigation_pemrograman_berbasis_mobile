@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:e_commerce/home_screen.dart';
-import 'package:e_commerce/detail_barang.dart';
+import 'package:tugas_navigation_pemrograman_berbasis_mobile/home_screen.dart';
+import 'package:tugas_navigation_pemrograman_berbasis_mobile/detail_barang.dart';
 
 void main() {
   runApp(const MyApp());

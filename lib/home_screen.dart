@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:e_commerce/models/model_keranjang.dart';
+import 'package:tugas_navigation_pemrograman_berbasis_mobile/models/model_keranjang.dart';
 import 'package:intl/intl.dart';
 
 final curFormat = NumberFormat.simpleCurrency(locale: "id_ID");
