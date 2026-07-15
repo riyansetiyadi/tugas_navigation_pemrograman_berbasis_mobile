@@ -72,3 +72,13 @@ tugas_navigation_pemrograman_berbasis_mobile/
 ├── pubspec.yaml        # Dependensi proyek (termasuk package `intl` & aset gambar)
 └── README.md           # Dokumentasi proyek (File Ini)
 ```
+
+---
+
+## 🔗 Link Download & Demo Aplikasi
+
+| Platform | Tautan / Download | Keterangan |
+| :--- | :--- | :--- |
+| **🤖 Android** | [![Android APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/riyansetiyadi/tugas_navigation_pemrograman_berbasis_mobile/releases/download/v1.0.0/app-release.apk) | Unduh file `.apk` untuk diinstal langsung di perangkat Android. |
+| **🌐 Web Demo** | [![Web Live Demo](https://img.shields.io/badge/Open-Web%20Demo-blue?style=for-the-badge&logo=google-chrome)](https://riyansetiyadi.github.io/tugas_navigation_pemrograman_berbasis_mobile/) | Coba aplikasi langsung di browser Anda secara online. |
+| **🪟 Windows** | [![Windows App](https://img.shields.io/badge/Download-Windows%20App-blue?style=for-the-badge&logo=windows)](https://github.com/riyansetiyadi/tugas_navigation_pemrograman_berbasis_mobile/releases/download/v1.0.0/windows-release.zip) | Unduh paket aplikasi `.zip` untuk dijalankan di PC/Laptop Windows. |
