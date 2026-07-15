@@ -3,11 +3,11 @@ import 'package:e_commerce/home_screen.dart';
 import 'package:e_commerce/detail_barang.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  MyApp({Key? key}) : super(key: key);
+  const MyApp({Key? key}) : super(key: key);
 
   
 
@@ -27,12 +27,22 @@ class MyApp extends StatelessWidget {
         // Notice that the counter didn't reset back to zero; the application
         // is not restarted.
         primarySwatch: Colors.lightGreen,
+        appBarTheme: const AppBarTheme(
+          backgroundColor: Colors.lightGreen,
+          foregroundColor: Colors.white,
+        ),
+        elevatedButtonTheme: ElevatedButtonThemeData(
+          style: ElevatedButton.styleFrom(
+            backgroundColor: Colors.lightGreen,
+            foregroundColor: Colors.white,
+          ),
+        ),
       ),
-      home: HomeScreen(),
+      home: const HomeScreen(),
       debugShowCheckedModeBanner: false,
       routes: {
-        '/home'   : (BuildContext ctx) => HomeScreen(),
-        '/detail' : (BuildContext ctx) => DetailScreen(),
+        '/home'   : (BuildContext ctx) => const HomeScreen(),
+        '/detail' : (BuildContext ctx) => const DetailScreen(),
       },
     );
   }
