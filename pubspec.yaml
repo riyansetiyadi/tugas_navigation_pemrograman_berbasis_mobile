@@ -1,5 +1,5 @@
-name: e_commerce
-description: A new Flutter project.
+name: tugas_navigation_pemrograman_berbasis_mobile
+description: Tugas Flutter - Implementasi navigasi antar halaman dengan StatefulWidget pada aplikasi keranjang belanja e-commerce.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
